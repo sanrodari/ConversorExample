@@ -5,6 +5,7 @@
 
     <EditText
         android:id="@+id/campoTexto"
+        android:hint="@string/ingrese_el_numero_a_convertir"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
